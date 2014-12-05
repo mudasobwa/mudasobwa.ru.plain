@@ -1,0 +1,3 @@
+может быть хватит скулить, тупые аддикты?
+
+`am@localhost $ cat friendfeed | grep -i коммент | awk {"print $1;"} | *ban*`

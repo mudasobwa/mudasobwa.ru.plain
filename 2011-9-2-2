@@ -1,0 +1,9 @@
+Для тех, кто понимает
+
+
+          
+          @@ -348,7 +348,7 @@ case "$DISTRO" in- rm -rf /usr /lib/nvidia-current/xorg/xorg+ rm -rf /usr/lib/nvidia-current/xorg/xorg
+          
+        ✍ https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1, https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1
+
+Спасибо,  Лёха (http://twitter.com/#!/fufler)  !
