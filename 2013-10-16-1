@@ -4,18 +4,18 @@ Google Maps :: Tips’N’Tricks
 
 В левом нижнем углу сервиса карт отыскиваем неприметную ссылочку «Maps Labs» (шекспиры, блин) и удостаиваем ее кликом. Открывается такое окошко (в нем включаем обе опции, выделенные на картинке красненьким):
 
-http://mudasobwa.ru/i/gmaps-1.jpg
+![http://mudasobwa.ru/i/gmaps-1.jpg](http://mudasobwa.ru/i/gmaps-1.jpg)
 
 Теперь если нажать шифт, когда курсор мыши находится над картой, всплывет подсказка с координатами.
 
-http://mudasobwa.ru/i/gmaps-2.jpg
+![http://mudasobwa.ru/i/gmaps-2.jpg](http://mudasobwa.ru/i/gmaps-2.jpg)
 
 А через контекстное меню:
 
-http://mudasobwa.ru/i/gmaps-3.jpg
+![http://mudasobwa.ru/i/gmaps-3.jpg](http://mudasobwa.ru/i/gmaps-3.jpg)
 
 можно добавить перманентный маркер на карту.
 
-http://mudasobwa.ru/i/gmaps-4.jpg
+![http://mudasobwa.ru/i/gmaps-4.jpg](http://mudasobwa.ru/i/gmaps-4.jpg)
 
 Буду рад, если кому-нибудь пригодится.
