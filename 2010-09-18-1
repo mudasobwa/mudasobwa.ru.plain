@@ -3,7 +3,7 @@ Typoglyph Toolbar
 <blockquote style="border-left: 3px double rgb(224,224,224); background: url(http://mudasobwa.ru/themes/womenus/style/q.png) no-repeat scroll 2px 4px #F3F3F3; font-style: oblique; padding: 1em; margin-left: 2em;">Многие знают, что я трепетно отношусь к типографике. Этот отрадный факт моей биографии вынудил меня около года назад написать плагин для [Firefox](http://getfirefox.com), который умеет вставлять диакритические символы. Еще из коробки он умеет выделять текст тегами HTML для оформления красивого цитирования, вставления в любой текст Lj-уродца с ником и кое-чего еще. Выделенный в браузере текст можно прогнать через [типограф Лебедева](http://www.artlebedev.ru/tools/typograf/), преобразовать в HTML — [Markdown](http://ru.wikipedia.org/wiki/Markdown) и скопировать в поле ввода — HTML выделенного фрагмента страницы (копи-паст с оформлением).
   
 Сегодня я подтянул версию Firefox'а до 4 и, увидев что расширение до сих пор скачивают, решил прикрутить что-нибудь еще полезное. Поэтому, внимание, опрос.  
-<span style="font-size: x-small; float: right; color: #999;">&copy;&nbsp;&nbsp;[https://addons.mozilla.org/en-US/firefox/addon/14649/](http://mudasobwa.ru/index.php/articles/redirect/3934)</span>  
+<span style="font-size: x-small; float: right; color: #999;">&copy;  [https://addons.mozilla.org/en-US/firefox/addon/14649/](http://mudasobwa.ru/index.php/articles/redirect/3934)</span>  
 </blockquote>Мне хотелось бы увидеть в новом релизе:
 
 <ul class="fancy"><li>предпросмотр маркдауна в режиме asyoutype</li><li>возможность вставки цитаты из википедии</li><li>остальную типографику (длинные тире, лапки-ёлочки, стрелочки)</li><li>перевод на русский язык пунктов меню :-)</li><li>что-то иное (что?)</li></ul>

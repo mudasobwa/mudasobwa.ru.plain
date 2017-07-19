@@ -3,5 +3,5 @@
 <blockquote style="border-left: 3px double rgb(224,224,224); background: url(http://mudasobwa.ru/themes/womenus/style/q.png) no-repeat scroll 2px 4px #F3F3F3; font-style: oblique; padding: 1em; margin-left: 2em;"><code style="padding:1em; width: 100%;">@@ -348,7 +348,7 @@ case "$DISTRO" in  
 - rm -rf /usr /lib/nvidia-current/xorg/xorg  
 + rm -rf /usr/lib/nvidia-current/xorg/xorg</code>  
-<span style="font-size: x-small; float: right; color: #999;">&copy;&nbsp;&nbsp;[https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1](http://mudasobwa.ru/index.php/articles/redirect/4200)</span>  
+<span style="font-size: x-small; float: right; color: #999;">&copy;  [https://github.com/MrMEEE/bumblebee/commit/a047be85247755cdbe0acce6#diff-1](http://mudasobwa.ru/index.php/articles/redirect/4200)</span>  
 </blockquote>Спасибо, ![](http://mudasobwa.ru/i/twitbird.png) [Лёха](http://twitter.com/#!/fufler)!
