@@ -1,0 +1,19 @@
+puukko
+
+<blockquote cite="http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered/186434#186434" style="border-left: 3px solid #ccc; margin-left: 3em; padding: 0.2em 1em;">Spelunking through the Hardware Abstraction Layer while working for a certain Finnish Mobile Network Equipment Manufacturer I found 100+ occurrences of the Finnish word ‘puukko’.
+A ‘puukko’ is an all purpose knife that every Finn has in their toolbox or around the house. It is used for everything from pealing potatoes to performing computer repairs (my observations). I believe in this context it is the Finnish equivalent of the word ‘Hack’.
+My Finnish colleagues denied this and said it meant something more like ‘surgical procedure/intervention’… and I almost believed them until I found the comment:
+/* Perkele ISO Puukko! */ -> Fucking Big Hack!
+
+_Волшебная силлабика!_</blockquote>
+
+<blockquote cite="http://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered/504832#504832" style="border-left: 3px solid #ccc; margin-left: 3em; padding: 0.2em 1em; font: monospaced;"><span style="color:grey">//Woulda</span>
+if(x) {}
+<span style="color:grey">//Shoulda</span>
+else if(y) {}
+<span style="color:grey">//Coulda</span>
+else {}
+
+_Вот как нужно детям модальные глаголы объяснять!_</blockquote> 
+
+— from [Stack Overflow](http://stackoverflow.com/)

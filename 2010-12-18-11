@@ -1,0 +1,33 @@
+Bash-воровской словарь
+
+В свое время я уже баловался переводом на русский язык [кодов ответа HTTP-серверов](http://mudasobwa.ru/index.php/docs/597). Сейчас я решил усложнить себе задачу и поупражнялся в переводе на [Bash](http://ru.wikipedia.org/wiki/Bash)[![](http://ru.wikipedia.org/favicon.ico)](http://ru.wikipedia.org) — воровской фени:
+
+<ul class="fancy"><li><span style="color:#AAA;font-weight:bold;">А</span>мба — kill -9</li>
+<li><span style="color:#AAA;font-weight:bold;">Б</span>латной — sudo</li>
+<li><span style="color:#AAA;font-weight:bold;">В</span>ертухай — /sbin/init</li>
+<li><span style="color:#AAA;font-weight:bold;">Г</span>оп-стоп — ^Z</li>
+<li><span style="color:#AAA;font-weight:bold;">Д</span>рапать — reboot</li>
+<li><span style="color:#AAA;font-weight:bold;">Е</span>ПКТ — /tmp</li>
+<li><span style="color:#AAA;font-weight:bold;">Ж</span>ульман — find</li>
+<li><span style="color:#AAA;font-weight:bold;">З</span>атрюмовать — chown</li>
+<li><span style="color:#AAA;font-weight:bold;">И</span>ТК — chroot</li>
+<li><span style="color:#AAA;font-weight:bold;">К</span>анать — alias</li>
+<li><span style="color:#AAA;font-weight:bold;">Л</span>ипа — ln -s</li>
+<li><span style="color:#AAA;font-weight:bold;">М</span>едвежатник — ssh</li>
+<li><span style="color:#AAA;font-weight:bold;">Н</span>ары — cd</li>
+<li><span style="color:#AAA;font-weight:bold;">О</span>бщак — df</li>
+<li><span style="color:#AAA;font-weight:bold;">П</span>ахан — root</li>
+<li><span style="color:#AAA;font-weight:bold;">Р</span>аскумариться — fork</li>
+<li><span style="color:#AAA;font-weight:bold;">С</span>ука — chmod +s</li>
+<li><span style="color:#AAA;font-weight:bold;">Т</span>ерпила — rm</li>
+<li><span style="color:#AAA;font-weight:bold;">У</span>тка — send</li>
+<li><span style="color:#AAA;font-weight:bold;">Ф</span>ильтруй базар — grep -v</li>
+<li><span style="color:#AAA;font-weight:bold;">Х</span>езать — sed</li>
+<li><span style="color:#AAA;font-weight:bold;">Ц</span>ветной — route</li>
+<li><span style="color:#AAA;font-weight:bold;">Ч</span>истоган — du -H</li>
+<li><span style="color:#AAA;font-weight:bold;">Ш</span>ухер — netstat</li>
+<li><span style="color:#AAA;font-weight:bold;">Щ</span>ипач — awk</li>
+<li><span style="color:#AAA;font-weight:bold;">Э</span>тапка — touch</li>
+<li><span style="color:#AAA;font-weight:bold;">Ю</span>зить — mv</li>
+<li><span style="color:#AAA;font-weight:bold;">Я</span>ма — bzip2</li></ul> 
+					_Уточнения и комментарии приветствуются._
