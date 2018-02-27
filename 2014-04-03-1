@@ -1,8 +1,10 @@
 Последний из аргументов
 
-<figure>![](http://mudasobwa.ru/i/supposit.png)<figcaption>Спасибо, что де́ржите ваше мнение при себе…
-</figcaption></figure>
+![Спасибо, что де́ржите ваше мнение при себе…](http://mudasobwa.ru/i/supposit.png)
 
 Код для вставки: 
 
-&lt;img src="http://mudasobwa.ru/i/supposit.png" alt="Удерживайте мнения в себе!"&gt;
+```html
+<img src="http://mudasobwa.ru/i/supposit.png"
+                     alt="Удерживайте мнения в себе!">
+```
